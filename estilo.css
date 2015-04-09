@@ -42,7 +42,7 @@ p{
 	clear:left;
 	float: right;
 	width: 405px;
-	border-sizing: border-box;
+	box-sizing: border-box;
 	margin-right: 25px;
 	background-color:#F8CEF7;
 	border: 1px solid #FF56FB;
